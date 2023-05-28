@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Programming\C++\SimpleCode\Project7\Project7\main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project7.vcxproj -> D:\Programming\C++\SimpleCode\Project7\x64\Debug\Project7.exe
