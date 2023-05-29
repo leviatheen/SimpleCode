@@ -1,5 +1,0 @@
-﻿  main.cpp
-D:\Programming\C++\SimpleCode\test1\test1\main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-D:\Programming\C++\SimpleCode\test1\test1\main.cpp(6,20): error C3861: Vlad: идентификатор не найден
-D:\Programming\C++\SimpleCode\test1\test1\main.cpp(7,20): error C3861: Liza: идентификатор не найден
-D:\Programming\C++\SimpleCode\test1\test1\main.cpp(10,11): error C3861: LizaWithVlad: идентификатор не найден
